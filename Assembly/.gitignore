@@ -1,0 +1,7 @@
+x64/
+*.gdb_history
+*.log
+*.dmp
+.vscode/
+.vs/
+test/
